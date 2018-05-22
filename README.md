@@ -1,4 +1,5 @@
-JAVA MINIGAME, Shoot your enemies before they kill you!
+# JAVA ACTION MINI GAME
+Shoot your enemies before they kill you! <br />
 By Elisabetta Caldesi.
 
 USAGE
