@@ -1,6 +1,4 @@
 // Elisabetta Caldesi
-// Daily 2- Java
-// 3/23/18
 
 import edu.nd.cse.paradigms.*;
 import java.util.List;
